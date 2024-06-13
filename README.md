@@ -1,6 +1,11 @@
 ## Hi there👋
+
 My name is Khaled Ashmawy aka "DottierDark".
+
 I am Computer Engineering Student in German University in Cairo.
+
+
+![](https://komarev.com/ghpvc/?username=DottierDark&base=500&abbreviated=true)
 
 
 📈 My Github Stats:
