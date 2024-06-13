@@ -2,9 +2,6 @@
 
 My name is Khaled Ashmawy aka "DottierDark".
 
-I am Computer Engineering Student in German University in Cairo.
-
-
 ![](https://komarev.com/ghpvc/?username=DottierDark)
 
 
