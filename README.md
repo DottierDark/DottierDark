@@ -1,6 +1,6 @@
 ## Hi there👋
 
-My name is Khaled Ashmawy aka "DottierDark".
+My name is Khaled Ashmawy aka "DottierDark". I like learning alot of things. Take a look at my github profile and and tell me your feedback.
 
 ![](https://komarev.com/ghpvc/?username=DottierDark)
 
